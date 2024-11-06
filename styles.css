@@ -1,0 +1,35 @@
+body {
+  background-color: #f8e8a6;
+}
+
+h1 {
+  text-align: center;
+}
+
+.sub-links {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  color: green;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+
+p {
+  text-align: center;
+}
+
+.contact-email {
+  color: blue;
+}
+
+.link {
+    padding: 10px;
+}
